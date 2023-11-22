@@ -1,8 +1,11 @@
 import { Fragment } from 'react'
+import Card from './Card';
 const ListStudent = (props) => {
     return (
         <Fragment>
-            <h2>this page is for student</h2>
+            <Card>
+                <h2>kfkfkf</h2>
+            </Card>
 
         </Fragment>
     )
