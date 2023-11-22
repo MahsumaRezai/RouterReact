@@ -1,4 +1,4 @@
-import classes from './Style.module.css'
+import classes from './Style.module.css';
 const AddStudent = (props) => {
 
     return (
